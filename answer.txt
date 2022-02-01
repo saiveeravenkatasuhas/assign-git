@@ -35,7 +35,3 @@ hs_err_pid*
 
 •In a project how many remote Git repositories do you usually have?
  It is enough to one respository for a project but we can add as many repositories as needed.
-
-
-https://github.com/saiveeravenkatasuhas/assign-git
-vijaya tadi
